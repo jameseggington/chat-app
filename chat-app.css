@@ -1,0 +1,7 @@
+#message-list {
+  padding: 0px;
+}
+
+#message-list li {
+  list-style-type:none;
+}
